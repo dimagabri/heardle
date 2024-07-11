@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-          '<p class="mb-2"> Il nuovo Heardle, ma le canzoni non sono solo italiane. Creato con vergogna da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.</p> <p class="mb-3"> Grazie a <a href="https://twitter.com/eggtartemily">@eggtartemily</a> per le info su come creare un custom del gioco. <p class="mb-3"> </p> <p class="mb-3"> Grazie a <a href="https://www.instagram.com/woodoowhz">Enzo</a> per l&#39idea del gioco e <a href="https://www.instagram.com/Maurix07">Mauro</a> e <a href="https://www.instagram.com/francicocca">Francesca</a> per essere i tester delle nuove funzioni. <p class="mb-3"> Se vuoi sapere quali sono tutte le canzoni che hanno fatto parte del gioco (fino a ieri, non fare il furbo!) allora prova <a href="https://open.spotify.com/playlist/4xDiEdeyAqRrayQIMtgqop?si=ppu8hw9_T9CSxiXBUUOV5Q">questa playlist</a>.  <p class="mb-3"> </p> <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://spaces.w3schools.com/">W3 Spaces</a>.'),
+          '<p class="mb-2"> Il nuovo Heardle, ma le canzoni non sono solo italiane. Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.</p> <p class="mb-3"> Grazie a <a href="https://twitter.com/eggtartemily">@eggtartemily</a> per le info su come creare un custom del gioco. <p class="mb-3"> </p> <p class="mb-3">  Se vuoi sapere quali sono tutte le canzoni che hanno fatto parte del gioco dell'anno scorso allora prova <a href="https://open.spotify.com/playlist/4xDiEdeyAqRrayQIMtgqop?si=ppu8hw9_T9CSxiXBUUOV5Q">questa playlist</a>.  <p class="mb-3"> </p> <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4029,7 +4029,7 @@ var app = (function() {
           (n = w("p")),
           (s = w("p")),
           (n.innerHTML =
-            "Se ti piace questo gioco, supporta i creatori di Heardle su Ko-fi."),
+            "Se ti piace questo gioco e vuoi farmelo sapere, cercami su Instagram @dimagabri"),
           (r = x()),
           (s = w("p")),
           (i = x()),
@@ -4671,7 +4671,7 @@ var app = (function() {
             "\n\n" +
             t +
             "\n\n" +
-            "https://it-heardle.w3spaces.com/";
+            "https://ita-heardle.netlify.app/";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
