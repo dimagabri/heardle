@@ -10007,8 +10007,6 @@ var app = (function() {
           M(i, "type", "image/png"),
           M(i, "sizes", "16x16"),
           M(i, "href", "/favicon-16x16.png"),
-          M(o, "rel", "manifest"),
-          M(o, "href", "/site.webmanifest"),
           M(h, "class", "flex-none"),
           M(
             k,
