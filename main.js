@@ -3833,7 +3833,7 @@ var app = (function() {
     }
   }
 
-  function It(t) function It(t) {
+ function It(t) {
     let n, r, s, i;
     return {
       c() {
