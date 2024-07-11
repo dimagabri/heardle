@@ -4082,7 +4082,7 @@ var app = (function() {
       attemptInterval: 1.5e3,
       attemptIntervalAlt: [1.5e3, 2.7e3, 4.5e3, 7.5e3, 11e3, 16e3],
       maxAttempts: 6,
-      startDate: "2022-04-19",
+      startDate: "2024-07-07",
     },
         Jt = ["Si può dare di più? Tu di sicuro!", "Minchia Signor Tenente!", "Bravo Bravo! Sei tanto bravo!", "Penso che un sogno così non ritorni mai più", "Vivi per lei?", "Manchi tu nell'aria!", "Marco se ne è andato eh?"];
 
