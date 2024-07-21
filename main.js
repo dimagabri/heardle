@@ -621,7 +621,7 @@ var app = (function() {
           M(t, "height", "30"),
           M(t, "viewBox", "0 0 24 24"),
           M(t, "fill", "none"),
-          M(t, "stroke", "#A0F078"),
+          M(t, "stroke", "#20d8e6"),
           M(t, "stroke-width", "2"),
           M(t, "stroke-linecap", "round"),
           M(t, "stroke-linejoin", "round");
@@ -4079,8 +4079,8 @@ var app = (function() {
     }
   }
   const Vt = {
-      attemptInterval: 1.5e3,
-      attemptIntervalAlt: [1.5e3, 2.7e3, 4.5e3, 7.5e3, 11e3, 16e3],
+      attemptInterval: 1e3,
+      attemptIntervalAlt: [1e3, 2.5e3, 4.5e3, 8e3, 12e3, 18e3],
       maxAttempts: 6,
       startDate: "2024-07-11",
     },
@@ -4467,8 +4467,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-           '<div><p> <br>Se vuoi sapere quali sono TUTTE le canzoni che hanno fatto parte del gioco,  <a href="https://open.spotify.com/playlist/4xDiEdeyAqRrayQIMtgqop?si=ppu8hw9_T9CSxiXBUUOV5Q">clicca qui</a> per la playlist completa.<br/> Non sai cosa ti sei pers&#601;!<br/> </p></div>');
-      },
+                  '<div><p> <br>Le canzoni degli ultimi giorni hanno qualcosa in comune? <br/>  Allora sei in una special Week! <br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
