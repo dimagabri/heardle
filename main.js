@@ -1870,16 +1870,16 @@ var app = (function() {
     );
   }
 
-  function et(e) {
+ function et(e) {
     let t, n, r, s, i, o;
     return {
       c() {
         (t = w("p")),
-        (n = _("Mi dispiace tantissimo. La risposta è  ")),
+        (n= _("Prova a fare un refresh della pagina! Se non dovesse funzionare, la risposta è  ")),
         (r = w("a")),
-        (s = _("qui")),
+        (s = _("qui.")),
         (o = _(
-          ", se vuoi mantenere la tua striscia\n                                Shhhh..."
+          "\n Stavolta non dovrebbe essere colpa di Gabba..."
         )),
         M(r, "href", (i = e[1].url)),
           M(r, "style", "color:black"),
