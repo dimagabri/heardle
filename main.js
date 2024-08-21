@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-             '<p class="mb-2"> Il nuovo Heardle, ma le canzoni non sono solo italiane. Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - Dal 19.08 al 25.08: Estate nostalgica!</br> - Dal 02.09 al 08.09: Gli Anni 80! Ma manca... </br> - Dal 09.09 al 15.09: The King.</br> - Dal 23.09 al 29.09: Indie per cui... <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 28.07.2024</br> Le canzoni arrivano fino al 14 ottobre'), 
+             '<p class="mb-2"> Il nuovo Heardle, ma le canzoni non sono solo italiane. Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - Dal 19.08 al 25.08: Estate nostalgica!</br> - Dal 02.09 al 08.09: Gli Anni 80! Ma manca... </br> - Dal 09.09 al 15.09: The King.</br> - Dal 23.09 al 29.09: Indie per cui... <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 21.08.2024</br> Le canzoni arrivano fino al 14 ottobre'), 
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4080,12 +4080,11 @@ var app = (function() {
   }
   const Vt = {
       attemptInterval: 1e3,
-      attemptIntervalAlt: [1e3, 2.5e3, 4.5e3, 8e3, 12e3, 18e3],
+      attemptIntervalAlt: [1.5e3, 3e3, 5e3, 8e3, 12e3, 18e3],
       maxAttempts: 6,
       startDate: "2024-07-11",
     },
-        Jt = ["Si può dare di più? Tu di sicuro!", "Minchia Signor Tenente!", "Bravo Bravo! Sei tanto bravo!", "Penso che un sogno così non ritorni mai più", "Vivi per lei?", "Manchi tu nell'aria!", "Marco se ne è andato eh?"];
-
+              Jt = ["Si può dare di più? Tu di sicuro!", "La indovini con una!", "E chi sei l'Uomo Gatto?", "Penso che un sogno così non ritorni mai più", "LA PROFESSORAAAA", "Manchi tu nell'aria!", "Marco se ne è andato eh?"];
   function Kt(t) {
     let n, r;
     return {
@@ -9213,7 +9212,7 @@ var app = (function() {
 { url:"https://soundcloud.com/negramaro-official/estate", answer:"Negramaro - Estate", },
 { url:"https://soundcloud.com/alex-britti-official/notte-di-mezza-estate", answer:"Alex Britti - Notte Di Mezza Estate (feat. Edoardo Bennato)", },
 { url:"https://soundcloud.com/righeira-official/lestate-sta-finendo-2", answer:"Righeira - L'estate sta finendo", },
-{ url:"https://soundcloud.com/gino-paoli-official/sapore-di-sale-1", answer:"Gino Paoli - Sapore di sale", },
+{ url:"https://soundcloud.com/gino-paoli-official/sapore-di-sale-36291927", answer:"Gino Paoli - Sapore di sale", },
 { url:"https://soundcloud.com/angelinamango/ci-pensiamo-domani", answer:"Angelina Mango - Ci pensiamo domani", },
 { url:"https://soundcloud.com/paola-chiara/festival", answer:"Paola & Chiara - Festival", },
 { url:"https://soundcloud.com/colapesce-music/splash", answer:"Colapesce, Dimartino - Splash", },
