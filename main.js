@@ -3839,13 +3839,11 @@ var app = (function() {
       c() {
         (n = w("div")),
         (r = w("a")),
-        M(
-            r,
-            "class",
-            ""
-          ),
-          M(r, "href", "https://ko-fi.com/heardle"),
-          M(r, "title", "Supporta Heardle su Ko-Fi"),
+        (r.innerHTML =
+             "Prima di domani, fai un bel refresh &#128521;"),
+          M(r, "class", "flex justify-center items-center mt-0 mb-0"),
+          M(r, "href", "https://ita-heardle.netlify.app/"),
+          M(r, "title", "Refresh"),
           M(
             n,
             "class",
@@ -4646,24 +4644,24 @@ var app = (function() {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "Heardle is back #" + (s.id + 1),
+          let e = "🎶Heardle is back🎶 #" + (s.id + 1),
             t = "";
           a
             ?
             r.length < i.maxAttempts / 3 ?
-            (t += "🔊") :
+            (t += "🥳") :
             r.length < (i.maxAttempts / 3) * 2 ?
-            (t += "🔉") :
+            (t += "🙂") :
             r.length <= i.maxAttempts && (t += "🔈") :
-            (t += "🔇");
+            (t += "😒");
           for (let e = 0; e < i.maxAttempts; e++)
             r.length > e ?
             1 == r[e].isCorrect ?
-            (t += "🟩") :
+            (t += "🟢") :
             1 == r[e].isSkipped ?
-            (t += "⬛️") :
-            (t += "🟥") :
-            (t += "⬜️");
+            (t += "⚫") :
+            (t += "❌") :
+            (t += "⚪");
           let o =
             e +
             "\n\n" +
@@ -9124,7 +9122,7 @@ var app = (function() {
 "AC/DC - Highway to Hell",
 "Pino Daniele - Dubbi non ho",
 "The Buggles - Video Killed the Radio Star",
-"Journey - Don't Stop Believing",
+"Journey - Don't Stop Believin'",
 "Prince - Purple Rain",
 "Orchestral Manoeuvres in the Dark - Enola Gay",
 "Huey Lewis and The News - The Power Of Love",
@@ -9332,7 +9330,7 @@ var app = (function() {
 { url:"https://soundcloud.com/acdcofficial/highway-to-hell", answer:"AC/DC - Highway to Hell", },
 { url:"https://soundcloud.com/pino-daniele-official/dubbi-non-ho-remastered", answer:"Pino Daniele - Dubbi non ho", },
 { url:"https://soundcloud.com/the-buggles/video-killed-the-radio-star", answer:"The Buggles - Video Killed the Radio Star", },
-{ url:"https://soundcloud.com/journey-official/dont-stop-believing", answer:"Journey - Don't Stop Believing", },
+{ url:"https://soundcloud.com/journey-official/dont-stop-believin-3", answer:"Journey - Don't Stop Believin'", },
 { url:"https://soundcloud.com/prince/purple-rain", answer:"Prince - Purple Rain", },
 { url:"https://soundcloud.com/orchestral-manoeuvres-in-the-dark/enola-gay-2003-remaster", answer:"Orchestral Manoeuvres in the Dark - Enola Gay", },
 { url:"https://soundcloud.com/huey-lewis-and-the-news-official/the-power-of-love-2006-digital", answer:"Huey Lewis and The News - The Power Of Love", },
