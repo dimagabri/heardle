@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-             '<p class="mb-2"> Il nuovo Heardle, ma le canzoni non sono solo italiane. Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - Dal 02.09 al 08.09: Gli Anni 80! Ma manca... </br> - Dal 09.09 al 15.09: The King.</br> - Dal 23.09 al 29.09: Indie per cui... </br> - Dal 07.10 al 13.10: Ma è uscita una serie nuova su Sky? <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 22.08.2024</br> Le canzoni arrivano fino al 30 gennaio 2025'), 
+            '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - Dal 09.09 al 15.09: The King.</br> - Dal 23.09 al 29.09: Indie per cui...  </br> - Dal 07.10 al 13.10: Ma è uscita una serie nuova su Sky?</br> - Dal 04.11 al 10.11: Ah queste donne!  </br> - Dal 18.11 al 24.11: Lucio... di Bologna <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 10.09.2024</br> Le canzoni arrivano fino al 30 gennaio'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -3840,7 +3840,7 @@ var app = (function() {
         (n = w("div")),
         (r = w("a")),
         (r.innerHTML =
-             "Prima di domani, fai un bel refresh &#128521;"),
+        "Ti è piaciuto il gioco? <br> Clicca su Share e condividi con i tuoi amici! &#128521;"),
           M(r, "class", "flex justify-center items-center mt-0 mb-0"),
           M(r, "href", "https://ita-heardle.netlify.app/"),
           M(r, "title", "Refresh"),
