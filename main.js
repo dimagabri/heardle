@@ -4464,7 +4464,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-                  '<div><p> <br>Le canzoni degli ultimi giorni hanno qualcosa in comune? <br/>  Allora sei in una special Week! <br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
+                  '<div><p> <br>Le canzoni degli ultimi giorni hanno qualcosa in comune? <br/>  Allora sei in una special Week! <br/> Clicca nelle Info per saperne di più!<br/> E il Milan ha vinto il derby 🔴⚫️</p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
