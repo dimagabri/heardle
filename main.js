@@ -4667,7 +4667,7 @@ var app = (function() {
             "\n\n" +
             t +
             "\n\n" +
-            "https://ita-heardle.netlify.app/ <br> 🔴⚫️Matteo Gabbia Edition🔴⚫️";
+            "https://ita-heardle.netlify.app/  🔴⚫️Matteo Gabbia Edition🔴⚫️";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
