@@ -9371,7 +9371,7 @@ var app = (function() {
 { url:"https://soundcloud.com/883-official/tieni-il-tempo", answer:"883 - Tieni il tempo", },
 { url:"https://soundcloud.com/883-official/una-canzone-damore", answer:"883 - Una canzone d'amore", },
 { url:"https://soundcloud.com/883-official/la-regina-del-celebrit", answer:"883 - La regina del Celebrità", },
-{ url:"https://soundcloud.com/rettore-music/splendido-splendente-1", answer:"Rettore - Splendido splendente", },
+{ url:"https://soundcloud.com/donatella-rettore/splendido-splendente", answer:"Rettore - Splendido splendente", },
 { url:"https://soundcloud.com/rolling-stones-official/i-cant-get-no-satisfaction-3", answer:"The Rolling Stones - (I Can't Get No) Satisfaction", },
 { url:"https://soundcloud.com/vasco-rossi-official/vado-al-massimo", answer:"Vasco Rossi - Vado al massimo", },
 { url:"https://soundcloud.com/lucio-dalla/disperato-erotico-stomp", answer:"Lucio Dalla - Disperato erotico stomp", },
