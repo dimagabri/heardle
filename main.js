@@ -4080,7 +4080,7 @@ var app = (function() {
       attemptInterval: 1e3,
       attemptIntervalAlt: [1.5e3, 3e3, 5e3, 8e3, 12e3, 18e3],
       maxAttempts: 6,
-      startDate: "2024-07-19",
+      startDate: "2024-10-19",
     },
               Jt = ["Si può dare di più? Tu di sicuro!", "La indovini con una!", "E chi sei l'Uomo Gatto?", "Penso che un sogno così non ritorni mai più", "LA PROFESSORAAAA", "Manchi tu nell'aria!", "Marco se ne è andato eh?"];
   function Kt(t) {
