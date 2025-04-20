@@ -9689,7 +9689,7 @@ var app = (function() {
 { url:"https://soundcloud.com/kalascima/cutrofiano-demo2011", answer:"Kalascima - Cutrofiano", },
 { url:"https://soundcloud.com/red-hot-chili-peppers-official/under-the-bridge", answer:"Red Hot Chili Peppers - Under The Bridge", },
 { url:"https://soundcloud.com/adelemusic/rolling-in-the-deep", answer:"Adele - Rolling in the Deep", },
-{ url:"https://soundcloud.com/alessandra-amoroso-official/vivere-a-colori", answer:"Coez - Domenica", },
+{ url:"https://soundcloud.com/coezofficial/domenica", answer:"Coez - Domenica", },
 { url:"https://soundcloud.com/bastilleuk/pompeii", answer:"Bastille - Pompeii", },
 { url:"https://soundcloud.com/mikasounds/grace-kelly", answer:"Mika - Grace Kelly", },
 { url:"https://soundcloud.com/ligabue_official/una-vita-da-mediano", answer:"Ligabue - Una vita da mediano", },
