@@ -1,76 +1,56 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Heardle</title>
-    <meta
-      name="description"
-      content="La versione di Heardle più amata dagli italiani."
-    />
+
+    <!-- Meta description -->
+    <meta name="description" content="Heardle versione 2025" />
+
+    <!-- App-like experience for mobile -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+
+    <!-- Structured data -->
     <meta itemprop="name" content="Heardle" />
-    <meta
-      itemprop="description"
-  content="Un tranquillo Heardle tra amici."
-    />
-    <meta
-      itemprop="image"
-      content="https://www.diregiovani.it/wp-content/uploads/2017/05/sarabanda.jpg"
-    />
+    <meta itemprop="description" content="Heardle versione 2025" />
+    <meta itemprop="image" content="https://www.diregiovani.it/wp-content/uploads/2017/05/sarabanda.jpg" />
+
+    <!-- Open Graph (Facebook, etc.) -->
     <meta property="og:url" content="https://ita-heardle.netlify.app/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Heardle" />
-    <meta
-      property="og:description"
-      content="Heardle versione 2025"
-    />
-    <meta
-      property="og:image"
-      content="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg"
-    />
-        <link
-      rel="icon"
-      type="image/png"
-      href="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="https://www.diregiovani.it/wp-content/uploads/2017/05/sarabanda.jpg"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="https://wips.plug.it/cips/libero.it/magazine/cms/2023/07/carlo-conti.jpeg"
-    />
-    <link
-      rel="shortcut icon"
-      href="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg"
-    />
+    <meta property="og:description" content="Heardle versione 2025" />
+    <meta property="og:image" content="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg" />
+
+    <!-- Icons -->
+    <link rel="icon" type="image/png" href="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.diregiovani.it/wp-content/uploads/2017/05/sarabanda.jpg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://wips.plug.it/cips/libero.it/magazine/cms/2023/07/carlo-conti.jpeg" />
+    <link rel="shortcut icon" href="https://www.radiospeaker.it/wp-content/uploads/2024/05/carlo-conti-sanremo.jpg" />
     <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Styles -->
     <link rel="stylesheet" href="global.css" />
     <link rel="stylesheet" href="bundle.css" />
 
-        <script defer src="main.js"></script>
+    <!-- JavaScript -->
+    <script defer src="main.js"></script>
 
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3EH4Y8ZLS9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-3EH4Y8ZLS9');
-</script>
-     
-    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EH4Y8ZLS9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-3EH4Y8ZLS9');
+    </script>
   </head>
+
+  <body>
+    <div id="app"></div>
+  </body>
 </html>
