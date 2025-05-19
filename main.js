@@ -4645,7 +4645,7 @@ var app = (function() {
         () => {
           // console.log('answer', r.length)
           let e = "🎶Heardle 2025🎶 #" + (s.id + 1),
-            t = "2️⃣0️⃣1️⃣0️⃣s Edition";
+            t = "2️⃣0️⃣1️⃣0️⃣s Edition <br/>";
           a
             ?
             r.length < i.maxAttempts / 3 ?
