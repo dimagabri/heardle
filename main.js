@@ -787,7 +787,7 @@ var app = (function() {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Heardle"),
+            (u.textContent = "Heardle 2025"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -3840,7 +3840,7 @@ var app = (function() {
         (n = w("div")),
         (r = w("a")),
         (r.innerHTML =
-        "Ti è piaciuto il gioco? <br> Clicca su Condividi e gioca con i tuoi amici... se ne hai! &#128521;"),
+        "Ti è piaciuto il gioco? <br> Clicca su Condividi e gioca con i tuoi amici! &#128521;"),
           M(r, "class", "flex justify-center items-center mt-0 mb-0"),
           M(r, "href", "https://ita-heardle.netlify.app/"),
           M(r, "title", "Refresh"),
