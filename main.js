@@ -787,7 +787,7 @@ var app = (function() {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Heardle is Back"),
+            (u.textContent = "Heardle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 19.05-25.05 Gli anni 10 sono stati una cosa. </br> - 02.06-08.06 Gli anni zero invece...<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 19.05.2025</br> Le canzoni arrivano fino al 9 giugno'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 19.05-25.05 Gli anni 10 sono stati una cosa. </br> - 02.06-08.06 Gli anni zero invece... </br> - 30.06-06.07 Ancora anni dieci? Ci sta. <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 21.05.2025</br> Le canzoni arrivano fino al 7 luglio'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -3840,7 +3840,7 @@ var app = (function() {
         (n = w("div")),
         (r = w("a")),
         (r.innerHTML =
-        "Ti è piaciuto il gioco? <br> Clicca su Share e condividi con i tuoi amici! &#128521;"),
+        "Ti è piaciuto il gioco? <br> Clicca su Condividi e gioca con i tuoi amici... se ne hai! &#128521;"),
           M(r, "class", "flex justify-center items-center mt-0 mb-0"),
           M(r, "href", "https://ita-heardle.netlify.app/"),
           M(r, "title", "Refresh"),
@@ -4205,14 +4205,14 @@ var app = (function() {
             (f = w("div")),
             (m = w("div")),
             (k = w("div")),
-            (k.textContent = "La prossima canzone sarà disponibile tra:"),
+            (k.textContent = "Potrai giocare con un'altra canzone tra:"),
             (b = x()),
             Q(S.$$.fragment),
             (D = x()),
             (T = w("div")),
             (Y = w("div")),
             // (Y.innerHTML =
-            //   '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">È Tornato Heardle?</span>'),
+            //   '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">È Tornato Heardle</span>'),
             (C = x()),
             Q(O.$$.fragment),
             M(n, "class", "text-lg text-custom-line"),
@@ -4507,7 +4507,7 @@ var app = (function() {
     return {
       c() {
         (t = w("div")),
-        (t.textContent = "Copied to clipboard!"),
+        (t.textContent = "Copiato negli appunti"),
         M(
           t,
           "class",
@@ -4527,7 +4527,7 @@ var app = (function() {
     let t, n, r, s, i, o, a;
     return {
       c() {
-        (t = _("Share\n                ")),
+        (t = _("Condividi\n                ")),
         (n = k("svg")),
         (r = k("circle")),
         (s = k("circle")),
@@ -4687,7 +4687,7 @@ var app = (function() {
                 }, 2e3),
                 navigator.clipboard.writeText(o)) :
               Promise.reject(
-                "There was a problem copying your result to the clipboard"
+                "Mi sono incasinato, scusa, riprova!"
               );
           navigator
             .share({
@@ -9402,6 +9402,34 @@ var app = (function() {
 "Gnarls Barkley - Crazy",
 "Christina Aguilera - Candyman",
 "Marco Mengoni - Mi Fiderò (feat Madame)",
+"Alessandra Amoroso - Comunque Andare",
+"RAF - Infinito",
+"Lucio Dalla - Cara",
+"Marco Masini - Vaffanculo",
+"Giorgia - Girasole",
+"Marco Mengoni - Due Vite",
+"Negramaro - Sing-hiozzo",
+"Antonello Venditti - Notte prima degli esami",
+"Gianna Nannini, Edoardo Bennato - Un'Estate Italiana",
+"Loredana Bertè - In alto mare",
+"Valeria Rossi - Tre parole",
+"Alex Britti - La Vasca",
+"Gigi D'Alessio - Mon Amour, Mon Amour",
+"Samuele Bersani - Senza Titoli",
+"New Trolls - Quella carezza della sera",
+"Giusy Ferreri - Non ti scordar mai di me",
+"fabri fibra - Vip In Trip",
+"Giorgia - Come saprei",
+"Matia Bazar - Vacanze Romane",
+"Zucchero - Baila Morena",
+"Dua Lipa - IDGAF",
+"Adele - Hello",
+"Sia (feat Sean Paul) - Cheap Thrills",
+"Robin Thicke (feat. TI, Pharell Williams) - Blurred Lines",
+"Childish Gambino - This Is America",
+"Carly Rae Jepsen - Call Me Maybe",
+"Ed Sheeran - Thinking Out Loud",
+"Francesco De Gregori - Viva l'Italia"
     ]),
     On = {
       subscribe: ue(
@@ -9740,6 +9768,34 @@ var app = (function() {
 { url:"https://soundcloud.com/gnarls-barkley-1/crazy", answer:"Gnarls Barkley - Crazy", },
 { url:"https://soundcloud.com/christinaaguilera/candyman", answer:"Christina Aguilera - Candyman", },
 { url:"https://soundcloud.com/marco-mengoni-official/mi-fidero-feat-madame", answer:"Marco Mengoni - Mi Fiderò (feat Madame)", },
+{ url:"https://soundcloud.com/alessandra-amoroso-official/comunque-andare", answer:"Alessandra Amoroso - Comunque Andare", },
+{ url:"https://soundcloud.com/raf-official/infinito", answer:"RAF - Infinito", },
+{ url:"https://soundcloud.com/lucio-dalla/cara-1", answer:"Lucio Dalla - Cara", },
+{ url:"https://soundcloud.com/marcomasiniofficial/vaffanculo", answer:"Marco Masini - Vaffanculo", },
+{ url:"https://soundcloud.com/giorgia-official/girasole", answer:"Giorgia - Girasole", },
+{ url:"https://soundcloud.com/marco-mengoni-official/due-vite", answer:"Marco Mengoni - Due Vite", },
+{ url:"https://soundcloud.com/negramaro-official/sing-hiozzo", answer:"Negramaro - Sing-hiozzo", },
+{ url:"https://soundcloud.com/antonello-venditti/notte-prima-degli-esami-1", answer:"Antonello Venditti - Notte prima degli esami", },
+{ url:"https://soundcloud.com/lorenzojovanotti/salvami", answer:"Gianna Nannini, Edoardo Bennato - Un'Estate Italiana", },
+{ url:"https://soundcloud.com/loredana-berte/in-alto-mare", answer:"Loredana Bertè - In alto mare", },
+{ url:"https://soundcloud.com/valeriarossiofficial/tre-parole", answer:"Valeria Rossi - Tre parole", },
+{ url:"https://soundcloud.com/alex-britti-official/la-vasca", answer:"Alex Britti - La Vasca", },
+{ url:"https://soundcloud.com/gigi-dalessio/mon-amour-mon-amour", answer:"Gigi D'Alessio - Mon Amour, Mon Amour", },
+{ url:"https://soundcloud.com/samuele-bersani-official/senza-titoli", answer:"Samuele Bersani - Senza Titoli", },
+{ url:"https://soundcloud.com/new-trolls/quella-carezza-della-sera", answer:"New Trolls - Quella carezza della sera", },
+{ url:"https://soundcloud.com/giusy-ferreri/non-ti-scordar-mai-di-me", answer:"Giusy Ferreri - Non ti scordar mai di me", },
+{ url:"https://soundcloud.com/fabri-fibra/vip-in-trip", answer:"fabri fibra - Vip In Trip", },
+{ url:"https://soundcloud.com/giorgia-official/come-saprei", answer:"Giorgia - Come saprei", },
+{ url:"https://soundcloud.com/matia-bazar/vacanze-romane-1991-remaster", answer:"Matia Bazar - Vacanze Romane", },
+{ url:"https://soundcloud.com/zucchero-official/baila-morena-1", answer:"Zucchero - Baila Morena", },
+{ url:"https://soundcloud.com/dualipa/idgaf-2", answer:"Dua Lipa - IDGAF", },
+{ url:"https://soundcloud.com/adelemusic/hello", answer:"Adele - Hello", },
+{ url:"https://soundcloud.com/siamusic/cheap-thrills", answer:"Sia (feat Sean Paul) - Cheap Thrills", },
+{ url:"https://soundcloud.com/robinthicke/blurred-lines-1", answer:"Robin Thicke (feat. TI, Pharell Williams) - Blurred Lines", },
+{ url:"https://soundcloud.com/childish-gambino/this-is-america?#t=0%3A43", answer:"Childish Gambino - This Is America", },
+{ url:"https://soundcloud.com/interscope/carly-rae-jepsen-call-me-maybe", answer:"Carly Rae Jepsen - Call Me Maybe", },
+{ url:"https://soundcloud.com/edsheeran/thinking-out-loud", answer:"Ed Sheeran - Thinking Out Loud", },
+{ url:"https://soundcloud.com/francescodegregori/viva-litalia", answer:"Francesco De Gregori - Viva l'Italia", },
         ],
         Pn
       ).subscribe,
