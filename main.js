@@ -4645,7 +4645,7 @@ var app = (function() {
         () => {
           // console.log('answer', r.length)
           let e = "🎶Heardle 2025🎶 #" + (s.id + 1),
-            t = "Special Week!";
+            t = "";
           a
             ?
             r.length < i.maxAttempts / 3 ?
@@ -4657,10 +4657,10 @@ var app = (function() {
           for (let e = 0; e < i.maxAttempts; e++)
             r.length > e ?
             1 == r[e].isCorrect ?
-            (t += "🟩") :
+            (t += "✅") :
             1 == r[e].isSkipped ?
-            (t += "⬛") :
-            (t += "🟥") :
+            (t += "⏭️") :
+            (t += "⭕️") :
             (t += "⬜");
           let o =
             e +
