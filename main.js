@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 02.06-08.06 Gli anni zero invece... </br> - 30.06-06.07 Ancora anni dieci? Ci sta. </br> - 14.07-20.07 Vuoi che pianga? </br> - 21.07-27.07 Non ti facevo così demenziale... </br> - 28.07-03.08 Dovresti guardare meno TV. </br> - 04.08-10.08 Il fantasma delle estati passate </br> - 11.08-17.08 Il fantasma di questa estate </br> - 18.08-24.08 Estati ancora più passate! </br> - 25.08-31.08 Avete vinto voi: Dance anni 90! </br> - 08.09-14.09 Settembre è sempre difficile <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 06.06.2025</br> Le canzoni arrivano fino al 14 settembre'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 30.06-06.07 Ancora anni dieci? Ci sta. </br> - 14.07-20.07 Vuoi che pianga? </br> - 21.07-27.07 Non ti facevo così demenziale... </br> - 28.07-03.08 Dovresti guardare meno TV. </br> - 04.08-10.08 Il fantasma delle estati passate </br> - 11.08-17.08 Il fantasma di questa estate </br> - 18.08-24.08 Estati ancora più passate! </br> - 25.08-31.08 Avete vinto voi: Dance anni 90! </br> - 08.09-14.09 Settembre è sempre difficile <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 17.06.2025</br> Le canzoni arrivano fino al 14 settembre'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4644,7 +4644,7 @@ var app = (function() {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "🌻Heardle 2025🌻 #" + (s.id + 1),
+          let e = "☀️Heardle 2025☀️ #" + (s.id + 1),
             t = "";
           a
             ?
