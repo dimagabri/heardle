@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 14.07-20.07 Vuoi che pianga? </br> - 21.07-27.07 Non ti facevo così demenziale... </br> - 28.07-03.08 Dovresti guardare meno TV. </br> - 04.08-10.08 Il fantasma delle estati passate </br> - 11.08-17.08 Il fantasma di questa estate </br> - 18.08-24.08 Estati ancora più passate! </br> - 25.08-31.08 Avete vinto voi: Dance anni 90! </br> - 08.09-14.09 Settembre è sempre difficile </br> - 15.09-21.09 È un fatto geografico a volte <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 15.07.2025</br> Il gioco finirà un giorno di gennaio.'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 14.07-20.07 Vuoi che pianga? </br> - 21.07-27.07 Non ti facevo così demenziale... </br> - 28.07-03.08 Dovresti guardare meno TV. </br> - 04.08-10.08 Il fantasma delle estati passate </br> - 11.08-17.08 Il fantasma di questa estate </br> - 18.08-24.08 Estati ancora più passate! </br> - 25.08-31.08 Avete vinto voi: Dance anni 90! </br> - 08.09-14.09 Settembre è sempre difficile </br> - 15.09-21.09 È un fatto geografico a volte <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 18.07.2025</br> Il gioco finirà un giorno di gennaio.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -9466,7 +9466,7 @@ var app = (function() {
 "Baby K - Roma - Bangkok",
 "Damiano David - THE FIRST TIME",
 "The Kolors - Pronto Come Va",
-"Ghali - Chill",
+"The Pax Side of The Moon - Estate a Usmate Velate (Usmaci Velaci)",
 "Serena Brancale, Annalisa - Serenata",
 "Ed Sheeran - Azizam",
 "Lorde - What Was That",
@@ -10032,7 +10032,7 @@ var app = (function() {
 { url:"https://soundcloud.com/baby-k-official/roma-bangkok", answer:"Baby K - Roma - Bangkok", },
 { url:"https://soundcloud.com/damianodavid/the-first-time", answer:"Damiano David - THE FIRST TIME", },
 { url:"https://soundcloud.com/thekolors-music/pronto-come-va", answer:"The Kolors - Pronto Come Va", },
-{ url:"https://soundcloud.com/yoboyofficiel/chill", answer:"Ghali - Chill", },
+{ url:"https://soundcloud.com/thepaxsideofthemoon/estate-a-usmate-velate-usmaci", answer:"The Pax Side of The Moon - Estate a Usmate Velate (Usmaci Velaci)", },
 { url:"https://soundcloud.com/serenabrancale/serenata", answer:"Serena Brancale, Annalisa - Serenata", },
 { url:"https://soundcloud.com/edsheeran/azizam", answer:"Ed Sheeran - Azizam", },
 { url:"https://soundcloud.com/lordemusic/what-was-that", answer:"Lorde - What Was That", },
@@ -10097,7 +10097,7 @@ var app = (function() {
 { url:"https://soundcloud.com/cristianmarchi/love-sex-american-express-2", answer:"Cristian Marchi - Love Sex American Express", },
 { url:"https://soundcloud.com/ida-corr/let-me-think-about-it-radio-1", answer:"Ida Corr, Fedde Le Grand - Let Me Think About It", },
 { url:"https://soundcloud.com/bobsinclar/far-lamore", answer:"Bob Sinclar, Raffaella Carrà - Far L'Amore", },
-{ url:"https://soundcloud.com/officialswedishhousemafia/dont-you-worry-child-radio?si=a3937a4bd0014adbb6be65000da16db8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer:"Swedish House Mafia - Don't You Worry Child", },
+{ url:"https://soundcloud.com/officialswedishhousemafia/dont-you-worry-child-radio", answer:"Swedish House Mafia - Don't You Worry Child", },
 { url:"https://soundcloud.com/black-eyed-peas-official/dont-stop-the-party-album", answer:"Black Eyed Peas - Don't Stop The Party", },
 { url:"https://soundcloud.com/benny-benassi/satisfaction-uk-radio-edit", answer:"Benny Benassi - Satisfaction", },
 { url:"https://soundcloud.com/levanteofficial/alfonso", answer:"Levante - Alfonso", },
