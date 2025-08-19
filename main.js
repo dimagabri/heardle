@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 28.07-03.08 Dovresti guardare meno TV. </br> - 04.08-10.08 Il fantasma delle estati passate </br> - 11.08-17.08 Il fantasma di questa estate </br> - 18.08-24.08 Estati ancora più passate! </br> - 25.08-31.08 Avete vinto voi: Dance anni 90! </br> - 08.09-14.09 Settembre è sempre difficile </br> - 15.09-21.09 È un fatto geografico a volte </br> - 29.09-05.10 Per caso c&apos;è un concerto al Forum? </br> - 06.10-12.10 Abbiamo avuto anche il rap in Italia!  <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 28.07.2025</br> Il gioco finirà un giorno di gennaio.'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 18.08-24.08 Estati ancora più passate! </br> - 25.08-31.08 Avete vinto voi: Dance anni 90! </br> - 08.09-14.09 Settembre è sempre difficile </br> - 15.09-21.09 È un fatto geografico a volte </br> - 29.09-05.10 Per caso c&apos;è un concerto al Forum? </br> - 06.10-12.10 Abbiamo avuto anche il rap in Italia!  <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 19.08.2025</br> Il gioco finirà un giorno di gennaio.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -10038,7 +10038,7 @@ var app = (function() {
 { url:"https://soundcloud.com/lordemusic/what-was-that", answer:"Lorde - What Was That", },
 { url:"https://soundcloud.com/rosevillain/victorias-secret-feat-tony", answer:"Rose Villain Feat. Tony Effe - Victoria's Secret", },
 { url:"https://soundcloud.com/dj-bobo-official/chihuahua-6", answer:"Dj Bobo - Chihuahua", },
-{ url:"https://soundcloud.com/eamonmusic/fuck-it-i-dont-want-you-back-1", answer:"Eamon - Fuck It (I Don't Want You Back)", },
+{ url:"https://soundcloud.com/eamonmusic/f-k-it-i-dont-want-you-back-1", answer:"Eamon - Fuck It (I Don't Want You Back)", },
 { url:"https://soundcloud.com/kt-tunstall/black-horse-and-the-cherry-2", answer:"KT Turnstall - Black Horse and Cherry Tree", },
 { url:"https://soundcloud.com/bobsinclar/world-hold-on-1", answer:"Bob Sinclar - World Hold On", },
 { url:"https://soundcloud.com/irene-grandi-official/bruci-la-citt", answer:"Irene Grandi - Bruci la città", },
@@ -10917,3 +10917,4 @@ var app = (function() {
     props: {},
   });
 })();
+
