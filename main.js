@@ -4464,7 +4464,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-                  '<div><p> <br>Sta arrivando l&#39;estate... e sarà molto Special!<br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
+                  '<div><p> <br>L&#39;estate è sempre Special!<br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
@@ -10917,6 +10917,7 @@ var app = (function() {
     props: {},
   });
 })();
+
 
 
 
