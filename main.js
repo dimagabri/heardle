@@ -1,4 +1,3 @@
-import { weeklyPhrases } from "./weeklyPhrases.js";
 var app = (function() {
   "use strict";
 
@@ -4646,13 +4645,7 @@ var app = (function() {
         () => {
           // console.log('answer', r.length)
           let e = "☀️Heardle 2025☀️ #" + (s.id + 1),
-            let now = new Date();
-let phraseObj = weeklyPhrases.find(p => {
-  let start = new Date(p.start);
-  let end = new Date(p.end);
-  return now >= start && now <= end;
-});
-let t = phraseObj ? phraseObj.text : "";
+            t = "SW: Settembre è sempre difficile";
           a
             ?
             r.length < i.maxAttempts / 3 ?
@@ -10924,7 +10917,6 @@ let t = phraseObj ? phraseObj.text : "";
     props: {},
   });
 })();
-
 
 
 
