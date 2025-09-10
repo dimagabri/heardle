@@ -4645,7 +4645,7 @@ var app = (function() {
         () => {
           // console.log('answer', r.length)
           let e = "☀️Heardle 2025☀️ #" + (s.id + 1),
-            t = "SW: Settembre è sempre difficile \n";
+            t = "⚒️Settembre è sempre difficile🏫 \n";
           a
             ?
             r.length < i.maxAttempts / 3 ?
@@ -10917,6 +10917,7 @@ var app = (function() {
     props: {},
   });
 })();
+
 
 
 
