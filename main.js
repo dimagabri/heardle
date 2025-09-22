@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 15.09-21.09 È un fatto geografico a volte </br> - 29.09-05.10 Per caso c&apos;è un concerto al Forum? </br> - 06.10-12.10 Abbiamo avuto anche il rap in Italia! </br> - 13.10-19.10 Ti ricordi quando andavamo a ballare? </br> - 20.10-26.10 Indi...nuovo?  </br> - 03.11-09.11 Secondo me sono sopravvalutati, ma ok. <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 01.09.2025</br> Il gioco finirà un giorno di gennaio.'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 29.09-05.10 Per caso c&apos;è un concerto al Forum? </br> - 06.10-12.10 Abbiamo avuto anche il rap in Italia! </br> - 13.10-19.10 Ti ricordi quando andavamo a ballare? </br> - 20.10-26.10 Indi...nuovo?  </br> - 03.11-09.11 Secondo me sono sopravvalutati, ma ok. <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 01.09.2025</br> Il gioco finirà un giorno di gennaio.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4464,7 +4464,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-                  '<div><p> <br>L&#39;estate è sempre Special!<br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
+                  '<div><p> <br>Hai voglia di Special Week?<br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
@@ -4645,7 +4645,7 @@ var app = (function() {
         () => {
           // console.log('answer', r.length)
           let e = "☀️Heardle 2025☀️ #" + (s.id + 1),
-            t = "🌆È un fatto geografico a volte🌎 \n";
+            t = " ";
           a
             ?
             r.length < i.maxAttempts / 3 ?
