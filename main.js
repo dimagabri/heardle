@@ -10078,7 +10078,7 @@ var app = (function() {
 { url:"https://soundcloud.com/user-826088312/sorteggio", answer:"Bacon's Chaos - Sorteggio", },
 { url:"https://soundcloud.com/max-gazze/sotto-casa", answer:"Max Gazzè - Sotto Casa", },
 { url:"https://soundcloud.com/mina-official/citta-vuota-1", answer:"Mina - Città Vuota", },
-{ url:"https://soundcloud.com/edoardobennatoofficial/un-giorno-credi-3", answer:"Edoardo Bennato - Un giorno credi", },
+{ url:"https://soundcloud.com/edoardobennatoofficial/un-giorno-credi", answer:"Edoardo Bennato - Un giorno credi", },
 { url:"https://soundcloud.com/negramaro-official/attenta-1", answer:"Negramaro - Attenta", },
 { url:"https://soundcloud.com/negramaro-official/per-uno-come-me", answer:"Negramaro - Per uno come me", },
 { url:"https://soundcloud.com/negramaro-official/via-le-mani-dagli-occhi", answer:"Negramaro - Via le mani dagli occhi", },
