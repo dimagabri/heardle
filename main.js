@@ -10129,7 +10129,7 @@ var app = (function() {
 { url:"https://soundcloud.com/riccardo-cocciante/un-amico-in-me", answer:"Riccardo Cocciante - Hai Un Amico in Me", },
 { url:"https://soundcloud.com/luca-dirisio/se-provi-a-volare", answer:"Luca Dirisio - Se Provi a Volare", },
 { url:"https://soundcloud.com/totocutugno/litaliano", answer:"Toto Cutugno - L'Italiano", },
-{ url:"https://soundcloud.com/luigitenco/ciao-amore-ciao-5", answer:"Luigi Tenco - Ciao Amore Ciao", },
+{ url:"https://soundcloud.com/luigitenco/ciao-amore-ciao", answer:"Luigi Tenco - Ciao Amore Ciao", },
 { url:"https://soundcloud.com/nicoladibariofficial/la-prima-cosa-bella", answer:"Nicola Di Bari - La Prima Cosa Bella", },
 { url:"https://soundcloud.com/patty-pravo/e-dimmi-che-non-vuoi-morire-1", answer:"Patty Pravo - E dimmi che non vuoi morire", },
 { url:"https://soundcloud.com/mina-official/e-se-domani", answer:"Mina - E Se Domani", },
