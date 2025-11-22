@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 10.11-16.11 La Disney? Davvero? </br> - 24.11-30.11 Questa me l&#39;ero scordata! </br> - 01.12-25.12: 🎄Serve dirlo?🎄 (Con qualche eccezione) </br> - 05.01-11.01 Mamma mia questi non li sopporto! <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 11.11.2025</br> Il gioco finirà un giorno di gennaio.'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno:  </br> - 24.11-30.11 Questa me l&#39;ero scordata! </br> - 01.12-25.12: 🎄Serve dirlo?🎄 (Con qualche eccezione) </br> - 05.01-11.01 Mamma mia questi non li sopporto! <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 11.11.2025</br> Il gioco finirà un giorno di gennaio.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -10133,7 +10133,7 @@ var app = (function() {
 { url:"https://soundcloud.com/nicoladibariofficial/la-prima-cosa-bella", answer:"Nicola Di Bari - La Prima Cosa Bella", },
 { url:"https://soundcloud.com/patty-pravo/e-dimmi-che-non-vuoi-morire-1", answer:"Patty Pravo - E dimmi che non vuoi morire", },
 { url:"https://soundcloud.com/mina-official/e-se-domani", answer:"Mina - E Se Domani", },
-{ url:"https://soundcloud.com/fausto-leali-official/io-amo-1", answer:"Fausto Leali - Io amo", },
+{ url:"https://soundcloud.com/fausto-leali-official/io-amo", answer:"Fausto Leali - Io amo", },
 { url:"https://soundcloud.com/domenico-modugno-official/nel-blu-dipinto-di-blu", answer:"Domenico Modugno - Nel blu dipinto di blu", },
 { url:"https://soundcloud.com/sarabareilles/love-song-1", answer:"Sara Bareilles - Love Song", },
 { url:"https://soundcloud.com/capital-cities/safe-and-sound-2", answer:"Capital Cities - Safe And Sound", },
