@@ -787,7 +787,7 @@ var app = (function() {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "🎄Heardle 2025🎄"),
+            (u.textContent = "🎄Heardle🎄"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -10917,6 +10917,7 @@ var app = (function() {
     props: {},
   });
 })();
+
 
 
 
