@@ -787,7 +787,7 @@ var app = (function() {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Heardle 2025"),
+            (u.textContent = "🎄Heardle 2025🎄"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno:  </br> - 24.11-30.11 Questa me l&#39;ero scordata! </br> - 01.12-25.12: 🎄Serve dirlo?🎄 (Con qualche eccezione) </br> - 05.01-11.01 Mamma mia questi non li sopporto! <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 11.11.2025</br> Il gioco finirà un giorno di gennaio.'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno:  </br> - 01.12-25.12: 🎄Serve dirlo?🎄 (Con qualche eccezione) </br> - 05.01-11.01 Mamma mia questi non li sopporto! <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 30.11.2025</br> Il gioco finirà un giorno di gennaio.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4464,7 +4464,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-                  '<div><p> <br>Hai voglia di Special Week?<br/> Clicca nelle Info per saperne di più!<br/> </p></div>'); },
+                  '<div><p> <br>❄️Special Week?❄️<br/>🎅Sarà un mese speciale!🎅<br/> </p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
@@ -4644,7 +4644,7 @@ var app = (function() {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "🎶Heardle 2025🎵 #" + (s.id + 1),
+          let e = "🎄Heardle 2025🎅 #" + (s.id + 1),
             t = " ";
           a
             ?
@@ -9598,7 +9598,7 @@ var app = (function() {
 "Lucio Battisti - Innocenti Evasioni",
 "Michael Bublè - It's Beginning To Look a Lot Like Christmas",
 "Laura Pausini - Astro Del Ciel",
-"Tiziano Ferro - La Differenza tra Me e Te",
+"Train - Shake Up Christmas",
 "Christian De Sica - Santa Claus domani verrà",
 "John Lennon - And So This Is Christmas",
 "The Temper Trap - Sweet Disposition",
@@ -10164,7 +10164,7 @@ var app = (function() {
 { url:"https://soundcloud.com/luciobattistiofficial/innocenti-evasioni", answer:"Lucio Battisti - Innocenti Evasioni", },
 { url:"https://soundcloud.com/michaelbuble/its-beginning-to-look-a-lot", answer:"Michael Bublè - It's Beginning To Look a Lot Like Christmas", },
 { url:"https://soundcloud.com/laura-pausini-official/astro-del-ciel-with-the", answer:"Laura Pausini - Astro Del Ciel", },
-{ url:"https://soundcloud.com/tiziano-ferro-official/la-differenza-tra-me-e-te", answer:"Tiziano Ferro - La Differenza tra Me e Te", },
+{ url:"https://soundcloud.com/trainofficial/shake-up-christmas", answer:"Train - Shake Up Christmas", },
 { url:"https://soundcloud.com/christiandesica/santa-claus-domani-verra", answer:"Christian De Sica - Santa Claus domani verrà", },
 { url:"https://soundcloud.com/john-lennon-official/happy-xmas-war-is-over-2010", answer:"John Lennon - And So This Is Christmas", },
 { url:"https://soundcloud.com/the-temper-trap/sweet-disposition", answer:"The Temper Trap - Sweet Disposition", },
@@ -10917,6 +10917,7 @@ var app = (function() {
     props: {},
   });
 })();
+
 
 
 
