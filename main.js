@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno:  </br> - 01.12-25.12: 🎄Serve dirlo?🎄 (Con qualche eccezione) </br> - 05.01-11.01 Mamma mia questi non li sopporto! <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 30.11.2025</br> Il gioco finirà un giorno di gennaio.'),
+                        '<p class="mb-2"> Il nuovo Heardle e le canzoni non sono solo italiane! Creato con orgoglio da <a href="https://instagram.com/dimagabri">@dimagabri</a>. <p class="mb-3"> Tutti i diritti vanno ai rispettivi proprietari.<p class="mb-3"> Prova le nostre Favolose Special Week: settimane a tema, suggerite dai giocatori...oppure che rispecchiano il clima! <p class="mb-3"> Le prossime saranno: </br> - 05.01-11.01 Mamma mia questi non li sopporto! </br> - Dal 16.01: la settimana finale. <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://www.netlify.com//">Netlify</a>. Release 30.11.2025</br> Il gioco finirà un giorno di gennaio.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4464,7 +4464,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-                  '<div><p> <br>❄️Special Week?❄️<br/>🎅Sarà un mese speciale!🎅<br/> </p></div>'); },
+                  '<div><p> <br>Special Week?<br/>Clicca sulla "i" per saperne di piú!<br/> </p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
@@ -4644,7 +4644,7 @@ var app = (function() {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "🎄Heardle 2025🎅 #" + (s.id + 1),
+          let e = "🎵Heardle 2025🎶 #" + (s.id + 1),
             t = " ";
           a
             ?
