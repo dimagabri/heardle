@@ -10172,7 +10172,7 @@ var app = (function() {
 { url:"https://soundcloud.com/antonello-venditti/sara-2", answer:"Antonello Venditti - Sara", },
 { url:"https://soundcloud.com/lucio-dalla/cosa-sar", answer:"Lucio Dalla - Cosa sarà", },
 { url:"https://soundcloud.com/renato-zero-official/madame", answer:"Renato Zero - Madame", },
-{ url:"https://soundcloud.com/raffaella-carra-official/tanti-auguri-1", answer:"Raffaella Carra - Tanti auguri", },
+{ url:"https://soundcloud.com/raffaella-carra-official/tanti-auguri", answer:"Raffaella Carra - Tanti auguri", },
 { url:"https://soundcloud.com/4-non-blondes/whats-up-album-version", answer:"4 Non Blondes - What's Up?", },
 { url:"https://soundcloud.com/koolandthegang/celebration", answer:"Kool And The Gang - Celebration", },
 { url:"https://soundcloud.com/daftpunkofficialmusic/one-more-time", answer:"Daft Punk - One More Time", },
