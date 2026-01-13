@@ -4080,7 +4080,7 @@ var app = (function() {
       attemptInterval: 1e3,
       attemptIntervalAlt: [1.5e3, 4e3, 7e3, 11e3, 15e3, 20e3],
       maxAttempts: 6,
-      startDate: "2024-07-11",
+      startDate: "2024-07-31",
     },
               Jt = ["Si può dare di più? Tu di sicuro!", "La indovini con una!", "E chi sei l'Uomo Gatto?", "Penso che un sogno così non ritorni mai più", "LA PROFESSORAAAA", "Manchi tu nell'aria!", "Marco se ne è andato eh?"];
   function Kt(t) {
@@ -9068,26 +9068,6 @@ var app = (function() {
     })();
   });
   const Cn = ue([
-    "Zucchero - Diavolo In Me",
-"Bacon's Chaos - Borgo Brucia",
-"Massimo Pericolo - 7 miliardi",
-"Creedence Clearwater Revival - Have You Ever Seen The Rain",
-"Martelli - Bello Bello",
-"BLANCO - MI FAI IMPAZZIRE",
-"Brunori Sas - Guardia '82",
-"Cesare Cremonini - Possibili Scenari",
-"Club Dogo - Puro Bogotà (feat Marracash & Vincenzo)",
-"Franco Ricciardi - Madama Blu",
-"Frankie HI NRG MC - Quelli che benpensano",
-"Rose Villain feat Guè - COME UN TUONO",
-"Tony Effe feat Gaia - SESSO E SAMBA",
-"Tananai - Storie Brevi",
-"ANNA - 30°C",
-"Elodie - Black Nirvana",
-"Ghali - Paprika",
-"Mahmood - RA TA TA",
-"Måneskin - ZITTI E BUONI",
-"lorenzojovanotti - Oh, Vita!",
 "Raffaella Carrà - Pedro",
 "Gorillaz - Feel Good Inc.",
 "Antonello Venditti - Bomba o Non Bomba",
@@ -9634,26 +9614,6 @@ var app = (function() {
     On = {
       subscribe: ue(
         [
-          { url:"https://soundcloud.com/zucchero-official/diavolo-in-me", answer:"Zucchero - Diavolo In Me", },
-{ url:"https://soundcloud.com/user-826088312/borgo-brucia-1", answer:"Bacon's Chaos - Borgo Brucia", },
-{ url:"https://soundcloud.com/massimopericolo-music/7-miliardi", answer:"Massimo Pericolo - 7 miliardi", },
-{ url:"https://soundcloud.com/creedence-clearwater-revival/have-you-ever-seen-the-rain-2", answer:"Creedence Clearwater Revival - Have You Ever Seen The Rain", },
-{ url:"https://soundcloud.com/martelliofficial/bello-bello", answer:"Martelli - Bello Bello", },
-{ url:"https://soundcloud.com/blanchitobebe/mi-fai-impazzire", answer:"BLANCO - MI FAI IMPAZZIRE", },
-{ url:"https://soundcloud.com/brunorisasofficial/guardia-82", answer:"Brunori Sas - Guardia '82", },
-{ url:"https://soundcloud.com/cesare-cremonini-official/possibili-scenari", answer:"Cesare Cremonini - Possibili Scenari", },
-{ url:"https://soundcloud.com/club-dogo/puro-bogot-feat-vincenzo", answer:"Club Dogo - Puro Bogotà (feat Marracash & Vincenzo)", },
-{ url:"https://soundcloud.com/franco-ricciardi-music/madama-blu", answer:"Franco Ricciardi - Madama Blu", },
-{ url:"https://soundcloud.com/frankiehi-nrgmc/quelli-che-benpensano", answer:"Frankie HI NRG MC - Quelli che benpensano", },
-{ url:"https://soundcloud.com/rosevillain/come-un-tuono-feat-gue", answer:"Rose Villain feat Guè - COME UN TUONO", },
-{ url:"https://soundcloud.com/tonyeffe-music/sesso-e-samba", answer:"Tony Effe feat Gaia - SESSO E SAMBA", },
-{ url:"https://soundcloud.com/tananai-music/storie-brevi", answer:"Tananai - Storie Brevi", },
-{ url:"https://soundcloud.com/annamusic1-music/30-c", answer:"ANNA - 30°C", },
-{ url:"https://soundcloud.com/elodie-official/black-nirvana", answer:"Elodie - Black Nirvana", },
-{ url:"https://soundcloud.com/yoboyofficiel/paprika", answer:"Ghali - Paprika", },
-{ url:"https://soundcloud.com/mahmoodofficial/ra-ta-ta", answer:"Mahmood - RA TA TA", },
-{ url:"https://soundcloud.com/maneskin/zitti-e-buoni", answer:"Måneskin - ZITTI E BUONI", },
-{ url:"https://soundcloud.com/lorenzojovanotti/oh-vita", answer:"lorenzojovanotti - Oh, Vita!", },
 { url:"https://soundcloud.com/raffaella-carra-official/pedro", answer:"Raffaella Carrà - Pedro", },
 { url:"https://soundcloud.com/gorillaz/feel-good-inc-album-version", answer:"Gorillaz - Feel Good Inc.", },
 { url:"https://soundcloud.com/antonello-venditti/bomba-o-non-bomba", answer:"Antonello Venditti - Bomba o Non Bomba", },
@@ -10917,6 +10877,7 @@ var app = (function() {
     props: {},
   });
 })();
+
 
 
 
