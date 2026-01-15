@@ -4645,7 +4645,7 @@ var app = (function() {
         () => {
           // console.log('answer', r.length)
           let e = "🎵Heardle 2026🎶 #" + (s.id + 21),
-            t = " ";
+            t = "Gab Week ";
           a
             ?
             r.length < i.maxAttempts / 3 ?
