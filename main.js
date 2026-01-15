@@ -4080,7 +4080,7 @@ var app = (function() {
       attemptInterval: 1e3,
       attemptIntervalAlt: [1.5e3, 4e3, 7e3, 11e3, 15e3, 20e3],
       maxAttempts: 6,
-      startDate: "2024-07-31",
+      startDate: "2024-07-11",
     },
               Jt = ["Si può dare di più? Tu di sicuro!", "La indovini con una!", "E chi sei l'Uomo Gatto?", "Penso che un sogno così non ritorni mai più", "LA PROFESSORAAAA", "Manchi tu nell'aria!", "Marco se ne è andato eh?"];
   function Kt(t) {
@@ -4644,7 +4644,7 @@ var app = (function() {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "🎵Heardle 2026🎶 #" + (s.id + 1),
+          let e = "🎵Heardle 2026🎶 #" + (s.id + 21),
             t = " ";
           a
             ?
@@ -10877,6 +10877,7 @@ var app = (function() {
     props: {},
   });
 })();
+
 
 
 
