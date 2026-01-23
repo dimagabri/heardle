@@ -4464,7 +4464,7 @@ var app = (function() {
         (s = _(a)),
         (i = w("div")),
           (i.innerHTML=
-                  '<div><p> <br>Special Week?<br/>Clicca sulla "i" per saperne di piú!<br/> </p></div>'); },
+                  '<div><p> <br>Il gioco finisce oggi.<br/>grazie per aver giocato! <br/> Ci siamo divertiti un sacco!<br/> </p></div>'); },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
       },
